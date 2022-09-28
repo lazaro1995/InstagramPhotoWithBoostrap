@@ -1,1 +1,1 @@
-(https://lazaro1995.github.io/InstagramPhotoWithBoostrap/)
+https://lazaro1995.github.io/InstagramPhotoWithBoostrap/
